@@ -84,3 +84,13 @@ h2 {
   align-items: center;
   margin: 15px 0;
 }
+
+.live-link {
+  display: flex;
+  gap: 2em;
+}
+
+a { 
+  text-decoration: inherit;
+	color: inherit; 
+} 
